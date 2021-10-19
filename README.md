@@ -19,7 +19,3 @@ sudo python btscan.py -m manuf.txt
 For command line arguments (there aren't much) run:
 
 python btscan.py --help
-
-## esp32btscan
-
-First steps experimenting with ESP32 to probably find more BT devices.
