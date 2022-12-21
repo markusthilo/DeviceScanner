@@ -1,5 +1,5 @@
 # DeviceScanner
-Python tools to scan for Bluetooth and Wifi
+Python tool to scan for Bluetooth
 
 ## btscan
 The command line classic Bluetooth and Bluetooth LE scanner with text, Json and XML output.
