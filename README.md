@@ -6,16 +6,16 @@ The command line classic Bluetooth and Bluetooth LE scanner with text, Json and 
 
 ### Usage:
 
-sudo python btscan.py
+> $ sudo python btscan.py
 
 or as root:
 
-python btscan.py
+> \# python btscan.py
 
 You might want to use manuf.txt from Wireshark on gitlab to link MAC addresses and manufacturers:
 
-sudo python btscan.py -m manuf.txt
+> $ sudo python btscan.py -m manuf.txt
 
 For command line arguments (there aren't much) run:
 
-python btscan.py --help
+> $ python btscan.py --help
